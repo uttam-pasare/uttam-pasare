@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Uttam Pasare, working as a software professional
+- 👀 I’m interested in Java Programming
+- 🌱 I’m currently learning new tech trends
+- 💞️ I’m looking to collaborate on Java related technology stack
