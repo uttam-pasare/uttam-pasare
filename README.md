@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Uttam Pasare</h1>
-<h3 align="center">Build future with code!! I’m tech enthusiast and love Java Programming</h3>
+<h1 align="center">Hello techies, I'm Uttam Pasare</h1>
+<h3 align="center">Build future with code!! I’m tech enthusiast and love Java programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttam-pasare&label=Profile%20views&color=0e75b6&style=flat" alt="uttam-pasare" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java features**
 
-- 🌱 I’m currently learning **New Java features, microservices, Spring frameworks**
+- 🌱 I’m currently learning **New Java features, microservices, spring frameworks**
 
 - 👯 I’m looking to collaborate on **Java related technological features**
 
@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **uttam.r.pasare@gmail.com**
 
-- ⚡ Fun fact **;) Love discussion tech fun facts**
+- ⚡ Fun fact **;) Iam funny when it comse to discussing tech fun facts**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uttam-pasare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uttam-pasare" height="30" width="40" /></a>
 <a href="https://medium.com/@uttam.r.pasare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@uttam.r.pasare" height="30" width="40" /></a>
