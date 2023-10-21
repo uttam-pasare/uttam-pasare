@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@uttam.r.pasare](https://medium.com/@uttam.r.pasare)
 
-- 📫 How to reach me **uttam.r.pasare@db.com**
+- 📫 How to reach me **uttam.r.pasare@gmail.com**
 
-- ⚡ Fun fact **;) I think I am funny**
+- ⚡ Fun fact **;) Love discussion tech fun facts**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
