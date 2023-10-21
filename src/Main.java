@@ -2,6 +2,7 @@ import model.Employee;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.BiFunction;
 import java.util.function.Function;
 
 public class Main {
@@ -22,5 +23,11 @@ public class Main {
         // Capitalize then substring the length and print
         Function<String,String> substringFunction = name -> name.substring(2);
         employees.stream().map(Employee::getName).forEach(name -> System.out.println(capitalizeFunction.andThen(substringFunction).apply(name)));
+
+        // 3. BiFunction
+        // BiFunction<T,U,R> - function that accepts two arguments and produces a result
+        BiFunction<String, String, String> concat = String::concat;
+        employees.forEach(employee -> System.out.println(concat.apply(employee.getName(), employee.getGender())));
+
     }
 }
