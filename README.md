@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **uttam.r.pasare@gmail.com**
 
-- ⚡ Fun fact **;) Iam funny when it comse to discussing tech fun facts**
+- ⚡ Fun fact **;) I am funny when it comes to discussing tech fun facts**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
