@@ -1,4 +1,4 @@
-package model;
+package examples;
 
 public class Employee {
     private Integer id;
@@ -41,5 +41,10 @@ public class Employee {
 
     public Double getSalary() {
         return salary;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s %s %s %s", this.getId(), this.getName(), this.getGender(), this.getSalary());
     }
 }

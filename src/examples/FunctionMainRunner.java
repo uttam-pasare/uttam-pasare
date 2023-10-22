@@ -1,18 +1,13 @@
-import model.Employee;
+package examples;
 
-import java.util.ArrayList;
+
 import java.util.List;
 import java.util.function.BiFunction;
 import java.util.function.Function;
 
-public class Main {
+public class FunctionMainRunner {
     public static void main(String[] args) {
-        List<Employee> employees = new ArrayList<>();
-        employees.add(new Employee().setName("John").setId(100).setGender("Male").setSalary(25000.00));
-        employees.add(new Employee().setName("Alex").setId(101).setGender("Male").setSalary(24000.00));
-        employees.add(new Employee().setName("Merry").setId(102).setGender("Female").setSalary(23000.00));
-        employees.add(new Employee().setName("Sam").setId(103).setGender("Male").setSalary(26000.00));
-        employees.add(new Employee().setName("Angela").setId(104).setGender("Female").setSalary(27000.00));
+        List<Employee> employees = EmployeeUtil.getEmployees();
 
         System.out.println("1. Function which takes one input and returns output");
         // Capitalize names and print
